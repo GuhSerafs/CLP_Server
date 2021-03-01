@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\nelson\dropbox\laboratorio\projetos\artec\projetos vs\clp_server\clp_server\MyForm.h(806): warning C4101: 'ex': unreferenced local variable
+c:\users\nelson\dropbox\laboratorio\projetos\artec\projetos vs\clp_server\clp_server\MyForm.h(828): warning C4101: 'ex': unreferenced local variable
+  CLP_Server.vcxproj -> C:\Users\Nelson\Dropbox\Laboratorio\Projetos\Artec\Projetos VS\CLP_Server\Debug\CLP_Server.exe
+  CLP_Server.vcxproj -> C:\Users\Nelson\Dropbox\Laboratorio\Projetos\Artec\Projetos VS\CLP_Server\Debug\CLP_Server.pdb (Full PDB)
